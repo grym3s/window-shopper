@@ -1,0 +1,4 @@
+interface:
+  display_name: "Window Shopper"
+  short_description: "Find relevant skills within a small context budget"
+  default_prompt: "Use $window-shopper to select the installed skills needed for this task within an estimated instruction budget."

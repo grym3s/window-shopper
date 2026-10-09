@@ -1,0 +1,10 @@
+name: window-shopper
+version: "0.1.0"
+description: "Select local skills and cap returned skill bodies per live session. Experimental."
+author: grym3s
+license: MIT
+provides_tools:
+  - window_shop
+  - window_load
+hooks:
+  - pre_tool_call
